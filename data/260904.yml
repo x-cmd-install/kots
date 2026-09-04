@@ -4,10 +4,10 @@ about:
     KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
   license: Apache-2.0
   homepage: https://kots.io
-  head: f68fcbf
+  head: 6a284b0
   archived: false
   latestVersion: v1.131.7
-  collectedAt: 2026-09-04T19:18:46Z
+  collectedAt: 2026-09-04T21:14:08Z
 timeline:
   created: 2019-07-25
   lastCommit: 2026-09-04
@@ -18,7 +18,7 @@ popularity:
   fork: 97
   release: 734
   contributor: 92
-  pullRequest: 5803
+  pullRequest: 5804
   issue: 242
 language:
   Go: 5116490
@@ -37,59 +37,152 @@ recent:
   last30d:
     since: 2026-08-05
     release: 8
-    mergedPR: 23
+    mergedPR: 24
     openPR: 5
     closedIssue: 0
     openIssue: 0
-    commit: 28
+    commit: 30
   last60d:
     since: 2026-07-06
     release: 10
-    mergedPR: 55
+    mergedPR: 56
     openPR: 5
     closedIssue: 0
     openIssue: 0
-    commit: 65
+    commit: 67
   last90d:
     since: 2026-06-06
     release: 13
-    mergedPR: 85
+    mergedPR: 86
     openPR: 5
     closedIssue: 0
     openIssue: 1
-    commit: 102
+    commit: 104
   last180d:
     since: 2026-03-08
     release: 18
-    mergedPR: 177
+    mergedPR: 178
     openPR: 5
     closedIssue: 0
     openIssue: 1
-    commit: 226
+    commit: 228
   last360d:
     since: 2025-09-09
     release: 26
-    mergedPR: 373
+    mergedPR: 374
     openPR: 8
     closedIssue: 1
     openIssue: 2
-    commit: 455
+    commit: 457
   last720d:
     since: 2024-09-14
     release: 73
-    mergedPR: 874
+    mergedPR: 875
     openPR: 8
     closedIssue: 4
     openIssue: 5
-    commit: 886
+    commit: 887
 total:
   release: 734
-  mergedPR: 4561
+  mergedPR: 4562
   openPR: 8
   closedIssue: 135
   openIssue: 107
-  commit: 10173
+  commit: 10174
 ---
+path: /home/runner/.x-repo/github.com/replicatedhq/kots
+collectedAt: 2026-09-04T21:14:15Z
+loc:
+  Go:
+    code: 150890
+    comments: 5180
+    blanks: 19807
+    files: 755
+  Yaml:
+    code: 40855
+    comments: 1627
+    blanks: 922
+    files: 1379
+  Tsx:
+    code: 23586
+    comments: 368
+    blanks: 1622
+    files: 101
+  Jsx:
+    code: 19782
+    comments: 101
+    blanks: 1088
+    files: 114
+  Sass:
+    code: 8126
+    comments: 316
+    blanks: 915
+    files: 79
+  TypeScript:
+    code: 6321
+    comments: 378
+    blanks: 1001
+    files: 102
+  Json:
+    code: 3170
+    comments: 0
+    blanks: 0
+    files: 9
+  Svg:
+    code: 3164
+    comments: 2
+    blanks: 0
+    files: 9
+  JavaScript:
+    code: 2947
+    comments: 181
+    blanks: 319
+    files: 32
+  Sh:
+    code: 1173
+    comments: 167
+    blanks: 346
+    files: 29
+  Css:
+    code: 1095
+    comments: 172
+    blanks: 195
+    files: 5
+  OpenPolicyAgent:
+    code: 1081
+    comments: 74
+    blanks: 80
+    files: 1
+  Html:
+    code: 475
+    comments: 0
+    blanks: 6
+    files: 3
+  Makefile:
+    code: 439
+    comments: 4
+    blanks: 94
+    files: 13
+  Dockerfile:
+    code: 23
+    comments: 0
+    blanks: 8
+    files: 3
+  Markdown:
+    code: 0
+    comments: 1769
+    blanks: 859
+    files: 39
+  Text:
+    code: 0
+    comments: 2
+    blanks: 0
+    files: 2
+total:
+  code: 263734
+  comments: 10379
+  blanks: 27290
+  files: 2675
 ---
 date: "2026-08-24"
 repo:
