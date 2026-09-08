@@ -5,7 +5,7 @@ about:
   head: 898fcf0
   archived: false
   latestVersion: "v1.131.7"
-  collectedAt: 2026-09-08T02:56:35Z
+  collectedAt: 2026-09-08T05:48:34Z
 timeline:
   created: 2019-07-25
   lastCommit: 2026-09-07
@@ -89,7 +89,7 @@ total:
   commit: 10178
 ---
 path: /home/runner/.x-repo/github.com/replicatedhq/kots
-collectedAt: 2026-09-08T02:56:54Z
+collectedAt: 2026-09-08T05:48:50Z
 loc:
   Go:
     code: 150965
