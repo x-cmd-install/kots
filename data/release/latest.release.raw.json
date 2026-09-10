@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 61728545,
       "digest": "sha256:ca5ca53723ba3f778450f4df217abfdac38bdb20866943eec2b71c388002ed43",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-09-08T19:31:14Z",
       "updated_at": "2026-09-08T19:31:18Z",
       "browser_download_url": "https://github.com/replicatedhq/kots/releases/download/v1.131.8/kots_darwin_all.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 61662086,
       "digest": "sha256:7e9ab785910ec0ee929ed2c6f5571f4547a08d9a23e3516580d5af7e483dbc0c",
-      "download_count": 1760,
+      "download_count": 2370,
       "created_at": "2026-09-08T19:31:15Z",
       "updated_at": "2026-09-08T19:31:18Z",
       "browser_download_url": "https://github.com/replicatedhq/kots/releases/download/v1.131.8/kots_linux_amd64.tar.gz"

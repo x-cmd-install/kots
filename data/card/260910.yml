@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.131.8"
   latestRelease: "v1.131.8"
   latestPrerelease: "v1.129.0"
-  collectedAt: 2026-09-10T17:49:04Z
+  collectedAt: 2026-09-10T23:52:02Z
 timeline:
   created: 2019-07-25
   lastCommit: 2026-09-10
@@ -93,7 +93,7 @@ total:
   commit: 10182
 ---
 path: /home/runner/.x-repo/github.com/replicatedhq/kots
-collectedAt: 2026-09-10T17:49:23Z
+collectedAt: 2026-09-10T23:52:22Z
 loc:
   Go:
     code: 151017
