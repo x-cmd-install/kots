@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 6 | 23 | 4 | 0 | 0 | 22 |
-| last60d | 2026-07-15 | 11 | 60 | 5 | 0 | 0 | 69 |
-| 90d | 2026-06-15 | 14 | 88 | 5 | 0 | 0 | 99 |
-| last180d | 2026-03-17 | 19 | 181 | 5 | 0 | 1 | 227 |
-| 360d | 2025-09-18 | 26 | 363 | 8 | 1 | 2 | 433 |
-| last720d | 2024-09-23 | 72 | 868 | 8 | 4 | 5 | 876 |
+| 30d | 2026-08-15 | 6 | 23 | 4 | 0 | 0 | 22 |
+| last60d | 2026-07-16 | 11 | 60 | 5 | 0 | 0 | 69 |
+| 90d | 2026-06-16 | 14 | 88 | 5 | 0 | 0 | 99 |
+| last180d | 2026-03-18 | 19 | 179 | 5 | 0 | 1 | 227 |
+| 360d | 2025-09-19 | 26 | 363 | 8 | 1 | 2 | 433 |
+| last720d | 2024-09-24 | 71 | 866 | 8 | 4 | 5 | 874 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:57:38Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:10:50Z._
