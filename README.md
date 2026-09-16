@@ -14,11 +14,11 @@ x install kots
 
 ## Code insight
 
-Total: **263,267** lines of code across **2428** files in the top 5 languages.
+Total: **263,442** lines of code across **2429** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 151,017 | 5,200 | 19,822 | 755 |
+| Go | 151,192 | 5,200 | 19,831 | 756 |
 | Yaml | 40,855 | 1,627 | 922 | 1379 |
 | Tsx | 23,586 | 371 | 1,622 | 101 |
 | Jsx | 19,782 | 101 | 1,088 | 114 |
@@ -31,8 +31,8 @@ Overall score: **5.1 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.131.8` (2026-09-08)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-15
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 735 · **Merged PRs**: 4571 · **Open PRs**: 9 · **Closed issues**: 135 · **Open issues**: 107 · **Commits**: 10183
+- **Releases**: 735 · **Merged PRs**: 4572 · **Open PRs**: 9 · **Closed issues**: 135 · **Open issues**: 107 · **Commits**: 10184
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 6 | 23 | 5 | 0 | 0 | 22 |
-| last60d | 2026-07-17 | 10 | 60 | 6 | 0 | 0 | 69 |
-| 90d | 2026-06-17 | 14 | 87 | 6 | 0 | 0 | 99 |
-| last180d | 2026-03-19 | 19 | 179 | 6 | 0 | 1 | 227 |
-| 360d | 2025-09-20 | 26 | 353 | 9 | 1 | 2 | 433 |
-| last720d | 2024-09-25 | 71 | 864 | 9 | 4 | 5 | 873 |
+| 30d | 2026-08-17 | 6 | 23 | 4 | 0 | 0 | 24 |
+| last60d | 2026-07-18 | 10 | 55 | 6 | 0 | 0 | 71 |
+| 90d | 2026-06-18 | 14 | 87 | 6 | 0 | 0 | 101 |
+| last180d | 2026-03-20 | 19 | 180 | 6 | 0 | 1 | 229 |
+| 360d | 2025-09-21 | 26 | 354 | 9 | 1 | 2 | 435 |
+| last720d | 2024-09-26 | 71 | 864 | 9 | 4 | 5 | 872 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:16:59Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:14:13Z._
