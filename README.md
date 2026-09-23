@@ -4,7 +4,7 @@
 
 KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.k.a. Kubernetes Off-The-Shelf (KOTS) Software.
 
-[![x-cmd/install — kots Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kots.svg)](https://x-cmd.com/install/kots)
+[![x-cmd/install — kots Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kots.svg)](https://x-cmd.com/install/kots)
 
 ## Install
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.132.0` (2026-09-19)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 736 · **Merged PRs**: 4583 · **Open PRs**: 7 · **Closed issues**: 135 · **Open issues**: 107 · **Commits**: 10195
+- **Releases**: 736 · **Merged PRs**: 4584 · **Open PRs**: 6 · **Closed issues**: 135 · **Open issues**: 107 · **Commits**: 10196
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 26 | 2 | 0 | 0 | 32 |
-| last60d | 2026-07-24 | 10 | 62 | 4 | 0 | 0 | 67 |
-| 90d | 2026-06-24 | 15 | 93 | 4 | 0 | 0 | 107 |
-| last180d | 2026-03-26 | 20 | 182 | 4 | 0 | 1 | 221 |
-| 360d | 2025-09-27 | 27 | 357 | 7 | 0 | 2 | 436 |
-| last720d | 2024-10-02 | 72 | 867 | 7 | 4 | 5 | 873 |
+| 30d | 2026-08-24 | 4 | 27 | 1 | 0 | 0 | 33 |
+| last60d | 2026-07-25 | 10 | 61 | 3 | 0 | 0 | 68 |
+| 90d | 2026-06-25 | 15 | 92 | 3 | 0 | 0 | 108 |
+| last180d | 2026-03-27 | 20 | 182 | 3 | 0 | 1 | 222 |
+| 360d | 2025-09-28 | 27 | 358 | 6 | 0 | 2 | 437 |
+| last720d | 2024-10-03 | 72 | 865 | 6 | 4 | 5 | 873 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:18:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:21:08Z._
