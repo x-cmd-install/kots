@@ -30,8 +30,8 @@ x install kots
 
 评分最低的几项:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -48,7 +48,7 @@ x install kots
 
 ## 流行度
 
-- **Star**: 950 · **Fork**: 98 · **开放 issue**: 242 · **贡献者**: 93
+- **Star**: 950 · **Fork**: 98 · **开放 issue**: 242 · **贡献者**: 92
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install kots
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 25 | 4 | 0 | 0 | 28 |
-| last60d | 2026-08-01 | 10 | 52 | 6 | 0 | 0 | 59 |
-| 90d | 2026-07-02 | 13 | 85 | 6 | 0 | 0 | 95 |
-| last180d | 2026-04-03 | 20 | 169 | 6 | 0 | 1 | 211 |
-| 360d | 2025-10-05 | 26 | 346 | 9 | 0 | 2 | 429 |
-| last720d | 2024-10-10 | 70 | 861 | 9 | 4 | 5 | 868 |
+| 30d | 2026-09-01 | 3 | 25 | 4 | 0 | 0 | 28 |
+| last60d | 2026-08-02 | 10 | 52 | 6 | 0 | 0 | 59 |
+| 90d | 2026-07-03 | 13 | 83 | 6 | 0 | 0 | 95 |
+| last180d | 2026-04-04 | 20 | 167 | 6 | 0 | 1 | 211 |
+| 360d | 2025-10-06 | 26 | 346 | 9 | 0 | 2 | 429 |
+| last720d | 2024-10-11 | 70 | 858 | 9 | 4 | 5 | 867 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ kots 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T06:32:39Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T06:50:40Z._
