@@ -14,13 +14,13 @@ x install kots
 
 ## 代码洞察
 
-合计: **265,781** 行代码（覆盖前 5 种语言、共 **2444** 个文件）。
+合计: **266,709** 行代码（覆盖前 5 种语言、共 **2451** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 152,776 | 5,257 | 19,960 | 770 |
+| Go | 153,809 | 5,277 | 19,983 | 776 |
 | Yaml | 40,896 | 1,627 | 928 | 1380 |
-| Tsx | 23,588 | 361 | 1,617 | 101 |
+| Tsx | 23,336 | 349 | 1,569 | 102 |
 | Jsx | 19,782 | 101 | 1,088 | 114 |
 | Sass | 8,126 | 316 | 915 | 79 |
 
@@ -42,39 +42,39 @@ x install kots
 
 ## 发布
 
-- **最新版本**: `v1.132.0` (2026-09-19)
+- **最新版本**: `v1.133.0` (2026-10-23)
 - **最近提交**: 2026-10-23
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 951 · **Fork**: 98 · **开放 issue**: 242 · **贡献者**: 92
+- **Star**: 951 · **Fork**: 98 · **开放 issue**: 242 · **贡献者**: 93
 
 ## 累计统计
 
-- **发布数**: 736 · **已合并 PR**: 4595 · **开放 PR**: 9 · **已关闭 issue**: 135 · **开放 issue**: 107 · **提交数**: 10207
+- **发布数**: 737 · **已合并 PR**: 4597 · **开放 PR**: 13 · **已关闭 issue**: 135 · **开放 issue**: 107 · **提交数**: 10209
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 11 | 3 | 0 | 0 | 14 |
-| last60d | 2026-08-24 | 4 | 38 | 4 | 0 | 0 | 47 |
-| 90d | 2026-07-25 | 10 | 72 | 6 | 0 | 0 | 88 |
-| last180d | 2026-04-26 | 19 | 168 | 6 | 0 | 1 | 208 |
-| 360d | 2025-10-28 | 26 | 319 | 9 | 0 | 1 | 396 |
-| last720d | 2024-11-02 | 66 | 840 | 9 | 4 | 5 | 846 |
+| 30d | 2026-09-24 | 1 | 13 | 8 | 0 | 0 | 16 |
+| last60d | 2026-08-25 | 4 | 40 | 9 | 0 | 0 | 49 |
+| 90d | 2026-07-26 | 11 | 74 | 10 | 0 | 0 | 90 |
+| last180d | 2026-04-27 | 20 | 170 | 10 | 0 | 1 | 210 |
+| 360d | 2025-10-29 | 26 | 321 | 13 | 0 | 1 | 398 |
+| last720d | 2024-11-03 | 67 | 842 | 13 | 4 | 5 | 847 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.132.0/kotsadm-nominio.tar.gz) | 888.2 MiB | `native/unknown` |
-| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.132.0/kotsadm.tar.gz) | 998.6 MiB | `native/unknown` |
-| [kots_1.132.0_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.132.0/kots_1.132.0_checksums.txt) | 269 B | `other` |
-| [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.132.0/kots_darwin_all.tar.gz) | 59.1 MiB | `native/darwin/x64` |
-| [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.132.0/kots_linux_amd64.tar.gz) | 59.0 MiB | `native/linux/x64` |
-| [kots_linux_arm64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.132.0/kots_linux_arm64.tar.gz) | 53.9 MiB | `native/linux/arm64` |
+| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kotsadm-nominio.tar.gz) | 941.1 MiB | `native/unknown` |
+| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kotsadm.tar.gz) | 1.0 GiB | `native/unknown` |
+| [kots_1.133.0_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_1.133.0_checksums.txt) | 269 B | `other` |
+| [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_darwin_all.tar.gz) | 115.4 MiB | `native/darwin/x64` |
+| [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_linux_amd64.tar.gz) | 59.4 MiB | `native/linux/x64` |
+| [kots_linux_arm64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_linux_arm64.tar.gz) | 54.2 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -85,4 +85,4 @@ kots 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T05:45:30Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T05:30:23Z._
