@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.133.0` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 951 · **Forks**: 98 · **Open issues**: 242 · **Contributors**: 93
+- **Stars**: 951 · **Forks**: 99 · **Open issues**: 243 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 737 · **Merged PRs**: 4597 · **Open PRs**: 13 · **Closed issues**: 135 · **Open issues**: 107 · **Commits**: 10209
+- **Releases**: 737 · **Merged PRs**: 4598 · **Open PRs**: 14 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10210
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 13 | 8 | 0 | 0 | 16 |
-| last60d | 2026-08-25 | 4 | 40 | 9 | 0 | 0 | 49 |
-| 90d | 2026-07-26 | 11 | 74 | 10 | 0 | 0 | 90 |
-| last180d | 2026-04-27 | 20 | 170 | 10 | 0 | 1 | 210 |
-| 360d | 2025-10-29 | 26 | 321 | 13 | 0 | 1 | 398 |
-| last720d | 2024-11-03 | 67 | 842 | 13 | 4 | 5 | 847 |
+| 30d | 2026-09-25 | 1 | 13 | 9 | 0 | 1 | 17 |
+| last60d | 2026-08-26 | 4 | 41 | 10 | 0 | 1 | 47 |
+| 90d | 2026-07-27 | 11 | 71 | 11 | 0 | 1 | 78 |
+| last180d | 2026-04-28 | 20 | 170 | 11 | 0 | 2 | 202 |
+| 360d | 2025-10-30 | 26 | 322 | 14 | 0 | 2 | 392 |
+| last720d | 2024-11-04 | 67 | 841 | 14 | 4 | 6 | 848 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:30:23Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:36:52Z._
