@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 121004245,
       "digest": "sha256:6da296523706db767ffe5438af8272524ba940a85e6d0cf8fc851a21e325e6f3",
-      "download_count": 11,
+      "download_count": 18,
       "created_at": "2026-10-23T19:00:01Z",
       "updated_at": "2026-10-23T19:00:05Z",
       "browser_download_url": "https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_darwin_all.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 62271559,
       "digest": "sha256:b13e3cf7c5aeede5cc7802b2ff8b3745ec9db18d1e5bbe42f4c111fcc9f13ef3",
-      "download_count": 1214,
+      "download_count": 1656,
       "created_at": "2026-10-23T19:00:01Z",
       "updated_at": "2026-10-23T19:00:08Z",
       "browser_download_url": "https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 56882093,
       "digest": "sha256:743a9a730de78d2233fd31382a3409130c0e2bad40a7db450dfe1b23e4ff9297",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-10-23T19:00:01Z",
       "updated_at": "2026-10-23T19:00:03Z",
       "browser_download_url": "https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_linux_arm64.tar.gz"
