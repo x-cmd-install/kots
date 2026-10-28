@@ -14,11 +14,11 @@ x install kots
 
 ## Code insight
 
-Total: **266,709** lines of code across **2451** files in the top 5 languages.
+Total: **266,739** lines of code across **2451** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 153,809 | 5,277 | 19,983 | 776 |
+| Go | 153,839 | 5,278 | 19,987 | 776 |
 | Yaml | 40,896 | 1,627 | 928 | 1380 |
 | Tsx | 23,336 | 349 | 1,569 | 102 |
 | Jsx | 19,782 | 101 | 1,088 | 114 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 951 · **Forks**: 99 · **Open issues**: 243 · **Contributors**: 93
+- **Stars**: 951 · **Forks**: 100 · **Open issues**: 243 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 737 · **Merged PRs**: 4600 · **Open PRs**: 12 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10212
+- **Releases**: 737 · **Merged PRs**: 4602 · **Open PRs**: 11 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10214
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 14 | 7 | 0 | 1 | 19 |
-| last60d | 2026-08-28 | 4 | 43 | 8 | 0 | 1 | 49 |
-| 90d | 2026-07-29 | 11 | 69 | 9 | 0 | 1 | 80 |
-| last180d | 2026-04-30 | 19 | 171 | 9 | 0 | 2 | 204 |
-| 360d | 2025-11-01 | 26 | 321 | 12 | 0 | 2 | 394 |
-| last720d | 2024-11-06 | 65 | 838 | 12 | 4 | 6 | 845 |
+| 30d | 2026-09-28 | 1 | 16 | 6 | 0 | 1 | 21 |
+| last60d | 2026-08-29 | 4 | 44 | 7 | 0 | 1 | 51 |
+| 90d | 2026-07-30 | 11 | 71 | 8 | 0 | 1 | 82 |
+| last180d | 2026-05-01 | 19 | 171 | 8 | 0 | 2 | 206 |
+| 360d | 2025-11-02 | 26 | 323 | 11 | 0 | 2 | 396 |
+| last720d | 2024-11-07 | 65 | 837 | 11 | 4 | 6 | 845 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:02:16Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:46:18Z._
