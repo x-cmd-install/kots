@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.133.0` (2026-10-23)
-- **Last commit**: 2026-10-27
+- **Latest**: `v1.134.1` (2026-10-29)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,29 +52,29 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 737 · **Merged PRs**: 4602 · **Open PRs**: 11 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10214
+- **Releases**: 739 · **Merged PRs**: 4605 · **Open PRs**: 14 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10217
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 16 | 6 | 0 | 1 | 21 |
-| last60d | 2026-08-29 | 4 | 44 | 7 | 0 | 1 | 51 |
-| 90d | 2026-07-30 | 11 | 71 | 8 | 0 | 1 | 82 |
-| last180d | 2026-05-01 | 19 | 171 | 8 | 0 | 2 | 206 |
-| 360d | 2025-11-02 | 26 | 323 | 11 | 0 | 2 | 396 |
-| last720d | 2024-11-07 | 65 | 837 | 11 | 4 | 6 | 845 |
+| 30d | 2026-09-29 | 3 | 19 | 9 | 0 | 1 | 24 |
+| last60d | 2026-08-30 | 6 | 46 | 10 | 0 | 1 | 54 |
+| 90d | 2026-07-31 | 13 | 73 | 11 | 0 | 1 | 85 |
+| last180d | 2026-05-02 | 20 | 169 | 11 | 0 | 2 | 209 |
+| 360d | 2025-11-03 | 28 | 325 | 14 | 0 | 2 | 399 |
+| last720d | 2024-11-08 | 66 | 840 | 14 | 4 | 6 | 845 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kotsadm-nominio.tar.gz) | 941.1 MiB | `native/unknown` |
-| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kotsadm.tar.gz) | 1.0 GiB | `native/unknown` |
-| [kots_1.133.0_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_1.133.0_checksums.txt) | 269 B | `other` |
-| [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_darwin_all.tar.gz) | 115.4 MiB | `native/darwin/x64` |
-| [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_linux_amd64.tar.gz) | 59.4 MiB | `native/linux/x64` |
-| [kots_linux_arm64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.133.0/kots_linux_arm64.tar.gz) | 54.2 MiB | `native/linux/arm64` |
+| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kotsadm-nominio.tar.gz) | 945.0 MiB | `native/unknown` |
+| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kotsadm.tar.gz) | 1.0 GiB | `native/unknown` |
+| [kots_1.134.1_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kots_1.134.1_checksums.txt) | 269 B | `other` |
+| [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kots_darwin_all.tar.gz) | 118.1 MiB | `native/darwin/x64` |
+| [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kots_linux_amd64.tar.gz) | 60.8 MiB | `native/linux/x64` |
+| [kots_linux_arm64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kots_linux_arm64.tar.gz) | 55.5 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:46:18Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:51:38Z._
