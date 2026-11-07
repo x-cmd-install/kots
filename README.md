@@ -14,11 +14,11 @@ x install kots
 
 ## Code insight
 
-Total: **266,739** lines of code across **2451** files in the top 5 languages.
+Total: **266,842** lines of code across **2452** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 153,839 | 5,278 | 19,987 | 776 |
+| Go | 153,942 | 5,280 | 19,995 | 777 |
 | Yaml | 40,896 | 1,627 | 928 | 1380 |
 | Tsx | 23,336 | 349 | 1,569 | 102 |
 | Jsx | 19,782 | 101 | 1,088 | 114 |
@@ -42,39 +42,39 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.134.1` (2026-10-29)
-- **Last commit**: 2026-10-31
+- **Latest**: `v1.134.2` (2026-11-07)
+- **Last commit**: 2026-11-07
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 952 · **Forks**: 100 · **Open issues**: 243 · **Contributors**: 93
+- **Stars**: 952 · **Forks**: 100 · **Open issues**: 243 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 739 · **Merged PRs**: 4607 · **Open PRs**: 13 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10219
+- **Releases**: 740 · **Merged PRs**: 4609 · **Open PRs**: 13 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10221
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 3 | 19 | 8 | 0 | 1 | 24 |
-| last60d | 2026-09-07 | 5 | 40 | 8 | 0 | 1 | 43 |
-| 90d | 2026-08-08 | 11 | 65 | 10 | 0 | 1 | 77 |
-| last180d | 2026-05-10 | 20 | 159 | 10 | 0 | 2 | 195 |
-| 360d | 2025-11-11 | 28 | 320 | 13 | 0 | 2 | 391 |
-| last720d | 2024-11-16 | 65 | 826 | 13 | 4 | 6 | 838 |
+| 30d | 2026-10-08 | 4 | 21 | 8 | 0 | 1 | 27 |
+| last60d | 2026-09-08 | 6 | 40 | 8 | 0 | 1 | 46 |
+| 90d | 2026-08-09 | 12 | 67 | 10 | 0 | 1 | 80 |
+| last180d | 2026-05-11 | 21 | 159 | 10 | 0 | 2 | 198 |
+| 360d | 2025-11-12 | 29 | 321 | 13 | 0 | 2 | 394 |
+| last720d | 2024-11-17 | 66 | 828 | 13 | 4 | 6 | 840 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kotsadm-nominio.tar.gz) | 945.0 MiB | `native/unknown` |
-| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kotsadm.tar.gz) | 1.0 GiB | `native/unknown` |
-| [kots_1.134.1_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kots_1.134.1_checksums.txt) | 269 B | `other` |
-| [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kots_darwin_all.tar.gz) | 118.1 MiB | `native/darwin/x64` |
-| [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kots_linux_amd64.tar.gz) | 60.8 MiB | `native/linux/x64` |
-| [kots_linux_arm64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.1/kots_linux_arm64.tar.gz) | 55.5 MiB | `native/linux/arm64` |
+| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.2/kotsadm-nominio.tar.gz) | 945.2 MiB | `native/unknown` |
+| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.2/kotsadm.tar.gz) | 1.0 GiB | `native/unknown` |
+| [kots_1.134.2_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.134.2/kots_1.134.2_checksums.txt) | 269 B | `other` |
+| [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.2/kots_darwin_all.tar.gz) | 118.1 MiB | `native/darwin/x64` |
+| [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.2/kots_linux_amd64.tar.gz) | 60.8 MiB | `native/linux/x64` |
+| [kots_linux_arm64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.2/kots_linux_arm64.tar.gz) | 55.5 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:42:54Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:01:43Z._
