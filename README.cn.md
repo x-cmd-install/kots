@@ -24,16 +24,6 @@ x install kots
 | Jsx | 19,782 | 101 | 1,088 | 114 |
 | Sass | 8,126 | 316 | 915 | 79 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **5.2 / 10**
-
-评分最低的几项:
-
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Security-Policy** (0/10) — security policy file not detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/replicatedhq/kots>
@@ -58,12 +48,12 @@ x install kots
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 4 | 20 | 8 | 0 | 1 | 26 |
-| last60d | 2026-09-10 | 5 | 38 | 8 | 0 | 1 | 41 |
-| 90d | 2026-08-11 | 12 | 64 | 10 | 0 | 1 | 70 |
-| last180d | 2026-05-13 | 21 | 154 | 10 | 0 | 2 | 177 |
-| 360d | 2025-11-14 | 29 | 315 | 13 | 0 | 2 | 381 |
-| last720d | 2024-11-19 | 66 | 826 | 13 | 4 | 6 | 838 |
+| 30d | 2026-10-11 | 4 | 20 | 8 | 0 | 1 | 26 |
+| last60d | 2026-09-11 | 5 | 38 | 8 | 0 | 1 | 41 |
+| 90d | 2026-08-12 | 12 | 63 | 10 | 0 | 1 | 70 |
+| last180d | 2026-05-14 | 20 | 153 | 10 | 0 | 2 | 177 |
+| 360d | 2025-11-15 | 29 | 315 | 13 | 0 | 2 | 381 |
+| last720d | 2024-11-20 | 66 | 825 | 13 | 4 | 6 | 837 |
 
 ## Release 资产
 
@@ -85,4 +75,4 @@ kots 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:34:04Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:42:20Z._
