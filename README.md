@@ -48,12 +48,12 @@ Total: **266,952** lines of code across **2453** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 5 | 22 | 8 | 0 | 1 | 28 |
-| last60d | 2026-09-12 | 6 | 39 | 8 | 0 | 1 | 43 |
-| 90d | 2026-08-13 | 13 | 63 | 10 | 0 | 1 | 72 |
-| last180d | 2026-05-15 | 21 | 155 | 10 | 0 | 2 | 179 |
-| 360d | 2025-11-16 | 30 | 317 | 13 | 0 | 2 | 383 |
-| last720d | 2024-11-21 | 67 | 827 | 13 | 4 | 6 | 835 |
+| 30d | 2026-10-13 | 5 | 22 | 8 | 0 | 1 | 28 |
+| last60d | 2026-09-13 | 6 | 39 | 8 | 0 | 1 | 43 |
+| 90d | 2026-08-14 | 12 | 63 | 10 | 0 | 1 | 72 |
+| last180d | 2026-05-16 | 20 | 151 | 10 | 0 | 2 | 179 |
+| 360d | 2025-11-17 | 30 | 314 | 13 | 0 | 2 | 383 |
+| last720d | 2024-11-22 | 67 | 826 | 13 | 4 | 6 | 835 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:38:02Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:48:41Z._
