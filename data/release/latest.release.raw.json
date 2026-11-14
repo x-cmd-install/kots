@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1107304385,
       "digest": "sha256:d4db06c6a69fdab2c50b0aa4964545279d65755c1c3bccb04fe93e8a02835782",
-      "download_count": 20,
+      "download_count": 26,
       "created_at": "2026-11-10T23:36:29Z",
       "updated_at": "2026-11-10T23:37:01Z",
       "browser_download_url": "https://github.com/replicatedhq/kots/releases/download/v1.134.3/kotsadm.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 269,
       "digest": "sha256:205dac74e096318c549898477cccb94108e5821b5e21e0b90f1570b20911b9f8",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-10T23:26:04Z",
       "updated_at": "2026-11-10T23:26:04Z",
       "browser_download_url": "https://github.com/replicatedhq/kots/releases/download/v1.134.3/kots_1.134.3_checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 123874981,
       "digest": "sha256:8a9aa422eb9e98b28cc80f97b00f3be1d896c35da1aad18abbb70306fea0b9f6",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2026-11-10T23:26:04Z",
       "updated_at": "2026-11-10T23:26:08Z",
       "browser_download_url": "https://github.com/replicatedhq/kots/releases/download/v1.134.3/kots_darwin_all.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 63785116,
       "digest": "sha256:f4348afaeabb2a403436d1a3432a1aa56ce6f747b795d7f8cf0e1fe028379242",
-      "download_count": 5333,
+      "download_count": 7838,
       "created_at": "2026-11-10T23:26:04Z",
       "updated_at": "2026-11-10T23:26:07Z",
       "browser_download_url": "https://github.com/replicatedhq/kots/releases/download/v1.134.3/kots_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 58237367,
       "digest": "sha256:1828aa3e0247c0a829d3b84a99a9391563af534d32ed96344c53c99be6282400",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-10T23:26:04Z",
       "updated_at": "2026-11-10T23:26:06Z",
       "browser_download_url": "https://github.com/replicatedhq/kots/releases/download/v1.134.3/kots_linux_arm64.tar.gz"
