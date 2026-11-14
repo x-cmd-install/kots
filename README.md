@@ -33,7 +33,7 @@ Total: **266,952** lines of code across **2453** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.134.3` (2026-11-10)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-14
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **266,952** lines of code across **2453** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 741 · **Merged PRs**: 4611 · **Open PRs**: 13 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10223
+- **Releases**: 741 · **Merged PRs**: 4612 · **Open PRs**: 14 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 5 | 22 | 8 | 0 | 1 | 28 |
-| last60d | 2026-09-14 | 6 | 38 | 8 | 0 | 1 | 43 |
-| 90d | 2026-08-15 | 12 | 63 | 10 | 0 | 1 | 72 |
-| last180d | 2026-05-17 | 20 | 151 | 10 | 0 | 2 | 179 |
-| 360d | 2025-11-18 | 29 | 313 | 13 | 0 | 2 | 383 |
-| last720d | 2024-11-23 | 67 | 826 | 13 | 4 | 6 | 835 |
+| 30d | 2026-10-15 | 5 | 23 | 9 | 0 | 1 | 29 |
+| last60d | 2026-09-15 | 6 | 38 | 9 | 0 | 1 | 44 |
+| 90d | 2026-08-16 | 12 | 64 | 11 | 0 | 1 | 73 |
+| last180d | 2026-05-18 | 20 | 152 | 11 | 0 | 2 | 180 |
+| 360d | 2025-11-19 | 29 | 313 | 14 | 0 | 2 | 384 |
+| last720d | 2024-11-24 | 67 | 827 | 14 | 4 | 6 | 836 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:08:32Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:52:31Z._
