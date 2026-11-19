@@ -24,6 +24,16 @@ Total: **266,952** lines of code across **2453** files in the top 5 languages.
 | Jsx | 19,782 | 101 | 1,088 | 114 |
 | Sass | 8,126 | 316 | 915 | 79 |
 
+## OpenSSF Scorecard
+
+Overall score: **5.5 / 10**
+
+Lowest-scoring checks:
+
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/replicatedhq/kots>
@@ -38,7 +48,7 @@ Total: **266,952** lines of code across **2453** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 953 · **Forks**: 100 · **Open issues**: 243 · **Contributors**: 94
+- **Stars**: 953 · **Forks**: 99 · **Open issues**: 243 · **Contributors**: 94
 
 ## Totals (cumulative)
 
@@ -48,12 +58,12 @@ Total: **266,952** lines of code across **2453** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 5 | 22 | 9 | 0 | 1 | 20 |
-| last60d | 2026-09-17 | 6 | 34 | 9 | 0 | 1 | 33 |
-| 90d | 2026-08-18 | 12 | 62 | 10 | 0 | 1 | 67 |
-| last180d | 2026-05-20 | 20 | 150 | 11 | 0 | 2 | 172 |
-| 360d | 2025-11-21 | 29 | 309 | 14 | 0 | 2 | 375 |
-| last720d | 2024-11-26 | 67 | 827 | 14 | 4 | 6 | 835 |
+| 30d | 2026-10-20 | 5 | 20 | 9 | 0 | 1 | 20 |
+| last60d | 2026-09-20 | 5 | 29 | 9 | 0 | 1 | 33 |
+| 90d | 2026-08-21 | 11 | 56 | 10 | 0 | 1 | 67 |
+| last180d | 2026-05-23 | 20 | 146 | 11 | 0 | 2 | 172 |
+| 360d | 2025-11-24 | 29 | 307 | 14 | 0 | 2 | 375 |
+| last720d | 2024-11-29 | 65 | 826 | 14 | 4 | 6 | 832 |
 
 ## Release assets
 
@@ -75,4 +85,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:16:46Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:25:23Z._
