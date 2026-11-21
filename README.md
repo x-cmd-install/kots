@@ -14,11 +14,11 @@ x install kots
 
 ## Code insight
 
-Total: **266,952** lines of code across **2453** files in the top 5 languages.
+Total: **266,953** lines of code across **2453** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 153,993 | 5,284 | 19,998 | 777 |
+| Go | 153,994 | 5,283 | 19,998 | 777 |
 | Yaml | 40,896 | 1,627 | 928 | 1380 |
 | Tsx | 23,395 | 349 | 1,576 | 103 |
 | Jsx | 19,782 | 101 | 1,088 | 114 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.134.3` (2026-11-10)
+- **Latest**: `v1.134.4` (2026-11-21)
 - **Last commit**: 2026-11-20
 - **Assets in release**: 6
 
@@ -52,29 +52,29 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 741 · **Merged PRs**: 4613 · **Open PRs**: 14 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10225
+- **Releases**: 742 · **Merged PRs**: 4614 · **Open PRs**: 17 · **Closed issues**: 135 · **Open issues**: 108 · **Commits**: 10226
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 5 | 21 | 9 | 0 | 1 | 22 |
-| last60d | 2026-09-21 | 5 | 30 | 9 | 0 | 1 | 35 |
-| 90d | 2026-08-22 | 10 | 56 | 10 | 0 | 1 | 69 |
-| last180d | 2026-05-24 | 20 | 147 | 11 | 0 | 2 | 174 |
-| 360d | 2025-11-25 | 29 | 308 | 13 | 0 | 2 | 377 |
-| last720d | 2024-11-30 | 65 | 827 | 14 | 4 | 6 | 833 |
+| 30d | 2026-10-22 | 6 | 18 | 12 | 0 | 1 | 23 |
+| last60d | 2026-09-22 | 6 | 30 | 12 | 0 | 1 | 36 |
+| 90d | 2026-08-23 | 11 | 57 | 13 | 0 | 1 | 70 |
+| last180d | 2026-05-25 | 21 | 148 | 14 | 0 | 2 | 175 |
+| 360d | 2025-11-26 | 30 | 308 | 16 | 0 | 2 | 378 |
+| last720d | 2024-12-01 | 66 | 828 | 17 | 4 | 6 | 834 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.3/kotsadm-nominio.tar.gz) | 945.4 MiB | `native/unknown` |
-| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.3/kotsadm.tar.gz) | 1.0 GiB | `native/unknown` |
-| [kots_1.134.3_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.134.3/kots_1.134.3_checksums.txt) | 269 B | `other` |
-| [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.3/kots_darwin_all.tar.gz) | 118.1 MiB | `native/darwin/x64` |
-| [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.3/kots_linux_amd64.tar.gz) | 60.8 MiB | `native/linux/x64` |
-| [kots_linux_arm64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.3/kots_linux_arm64.tar.gz) | 55.5 MiB | `native/linux/arm64` |
+| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kotsadm-nominio.tar.gz) | 945.4 MiB | `native/unknown` |
+| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kotsadm.tar.gz) | 1.0 GiB | `native/unknown` |
+| [kots_1.134.4_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kots_1.134.4_checksums.txt) | 269 B | `other` |
+| [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kots_darwin_all.tar.gz) | 118.1 MiB | `native/darwin/x64` |
+| [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kots_linux_amd64.tar.gz) | 60.8 MiB | `native/linux/x64` |
+| [kots_linux_arm64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kots_linux_arm64.tar.gz) | 55.5 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:20:13Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:28:28Z._
