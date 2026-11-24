@@ -14,12 +14,12 @@ x install kots
 
 ## Code insight
 
-Total: **266,953** lines of code across **2453** files in the top 5 languages.
+Total: **267,096** lines of code across **2454** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 153,994 | 5,283 | 19,998 | 777 |
-| Yaml | 40,896 | 1,627 | 928 | 1380 |
+| Go | 154,136 | 5,300 | 20,030 | 778 |
+| Yaml | 40,897 | 1,627 | 928 | 1380 |
 | Tsx | 23,395 | 349 | 1,576 | 103 |
 | Jsx | 19,782 | 101 | 1,088 | 114 |
 | Sass | 8,126 | 316 | 915 | 79 |
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.134.4` (2026-11-21)
-- **Last commit**: 2026-11-20
+- **Latest**: `v1.134.5` (2026-11-24)
+- **Last commit**: 2026-11-24
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,29 +52,29 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 742 · **Merged PRs**: 4614 · **Open PRs**: 17 · **Closed issues**: 135 · **Open issues**: 109 · **Commits**: 10226
+- **Releases**: 743 · **Merged PRs**: 4618 · **Open PRs**: 14 · **Closed issues**: 135 · **Open issues**: 109 · **Commits**: 10230
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 5 | 13 | 9 | 0 | 2 | 11 |
-| last60d | 2026-09-24 | 6 | 30 | 12 | 0 | 2 | 35 |
-| 90d | 2026-08-25 | 9 | 57 | 13 | 0 | 2 | 67 |
-| last180d | 2026-05-27 | 21 | 148 | 14 | 0 | 3 | 171 |
-| 360d | 2025-11-28 | 30 | 308 | 16 | 0 | 3 | 373 |
-| last720d | 2024-12-03 | 66 | 827 | 17 | 4 | 7 | 834 |
+| 30d | 2026-10-25 | 6 | 17 | 6 | 0 | 1 | 15 |
+| last60d | 2026-09-25 | 7 | 33 | 9 | 0 | 2 | 39 |
+| 90d | 2026-08-26 | 10 | 61 | 10 | 0 | 2 | 71 |
+| last180d | 2026-05-28 | 22 | 152 | 11 | 0 | 3 | 175 |
+| 360d | 2025-11-29 | 31 | 312 | 13 | 0 | 3 | 377 |
+| last720d | 2024-12-04 | 67 | 831 | 14 | 4 | 7 | 838 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kotsadm-nominio.tar.gz) | 945.4 MiB | `native/unknown` |
-| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kotsadm.tar.gz) | 1.0 GiB | `native/unknown` |
-| [kots_1.134.4_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kots_1.134.4_checksums.txt) | 269 B | `other` |
-| [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kots_darwin_all.tar.gz) | 118.1 MiB | `native/darwin/x64` |
-| [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kots_linux_amd64.tar.gz) | 60.8 MiB | `native/linux/x64` |
-| [kots_linux_arm64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.4/kots_linux_arm64.tar.gz) | 55.5 MiB | `native/linux/arm64` |
+| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kotsadm-nominio.tar.gz) | 945.4 MiB | `native/unknown` |
+| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kotsadm.tar.gz) | 1.0 GiB | `native/unknown` |
+| [kots_1.134.5_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kots_1.134.5_checksums.txt) | 269 B | `other` |
+| [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kots_darwin_all.tar.gz) | 118.1 MiB | `native/darwin/x64` |
+| [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kots_linux_amd64.tar.gz) | 60.8 MiB | `native/linux/x64` |
+| [kots_linux_arm64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kots_linux_arm64.tar.gz) | 55.5 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for kots lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:44:24Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:52:16Z._
