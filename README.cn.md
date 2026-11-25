@@ -48,7 +48,7 @@ x install kots
 
 ## 流行度
 
-- **Star**: 952 · **Fork**: 99 · **开放 issue**: 244 · **贡献者**: 94
+- **Star**: 951 · **Fork**: 99 · **开放 issue**: 244 · **贡献者**: 94
 
 ## 累计统计
 
@@ -58,19 +58,19 @@ x install kots
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 6 | 17 | 6 | 0 | 1 | 15 |
-| last60d | 2026-09-25 | 7 | 33 | 9 | 0 | 2 | 39 |
-| 90d | 2026-08-26 | 10 | 61 | 10 | 0 | 2 | 71 |
-| last180d | 2026-05-28 | 22 | 152 | 11 | 0 | 3 | 175 |
-| 360d | 2025-11-29 | 31 | 312 | 13 | 0 | 3 | 377 |
-| last720d | 2024-12-04 | 67 | 831 | 14 | 4 | 7 | 838 |
+| 30d | 2026-10-26 | 6 | 17 | 6 | 0 | 1 | 15 |
+| last60d | 2026-09-26 | 7 | 32 | 9 | 0 | 2 | 39 |
+| 90d | 2026-08-27 | 10 | 61 | 10 | 0 | 2 | 71 |
+| last180d | 2026-05-29 | 22 | 150 | 11 | 0 | 3 | 175 |
+| 360d | 2025-11-30 | 31 | 312 | 13 | 0 | 3 | 377 |
+| last720d | 2024-12-05 | 67 | 830 | 14 | 4 | 7 | 838 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kotsadm-nominio.tar.gz) | 945.4 MiB | `native/unknown` |
-| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kotsadm.tar.gz) | 1.0 GiB | `native/unknown` |
+| [kotsadm-nominio.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kotsadm-nominio.tar.gz) | 969.3 MiB | `native/unknown` |
+| [kotsadm.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kotsadm.tar.gz) | 1.1 GiB | `native/unknown` |
 | [kots_1.134.5_checksums.txt](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kots_1.134.5_checksums.txt) | 269 B | `other` |
 | [kots_darwin_all.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kots_darwin_all.tar.gz) | 118.1 MiB | `native/darwin/x64` |
 | [kots_linux_amd64.tar.gz](https://github.com/replicatedhq/kots/releases/download/v1.134.5/kots_linux_amd64.tar.gz) | 60.8 MiB | `native/linux/x64` |
@@ -85,4 +85,4 @@ kots 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:52:17Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:13:18Z._
